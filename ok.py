@@ -83,7 +83,8 @@ def send(key):
             file.truncate(size-i)
             key_pressed = ""
         except:
-            i += 1 
+            i += 1
+            key_pressed = ""
     elif key_pressed == "<Key.enter: <13>>":
         key_pressed = "\n"
     elif key_pressed == "<96>":
